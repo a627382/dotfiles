@@ -1,8 +1,8 @@
 [core]
     editor  = vim
 [user]
-    name    = Nicolas Carlier
-    email   = n.carlier@nunux.org
+    name    = Edward Dalton
+    email   = edward.dalton@worldline.com
 [color]
     diff    = auto
     status  = auto
